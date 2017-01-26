@@ -15,6 +15,8 @@ ultimateteam::ultimateteam(QWidget *parent) :
     ui->labelpix->setPixmap(pix);
 
 
+    /*test*/
+
 }
 
 ultimateteam::~ultimateteam()
